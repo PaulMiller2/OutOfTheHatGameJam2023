@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Tick-SpriteSheet_0
+      name: UpperBody
       rect:
         serializedVersion: 2
         x: 0
@@ -135,7 +135,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_1
+      name: Back
       rect:
         serializedVersion: 2
         x: 570
@@ -166,7 +166,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_2
+      name: Back-Armed
       rect:
         serializedVersion: 2
         x: 925
@@ -194,10 +194,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_3
+      name: Belly
       rect:
         serializedVersion: 2
-        x: 33
+        x: 35
         y: 145
         width: 452
         height: 139
@@ -215,7 +215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_4
+      name: Eyes
       rect:
         serializedVersion: 2
         x: 668
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_5
+      name: Head
       rect:
         serializedVersion: 2
         x: 743
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_6
+      name: FrontLeg
       rect:
         serializedVersion: 2
         x: 969
@@ -278,7 +278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_7
+      name: MidLeg
       rect:
         serializedVersion: 2
         x: 1073
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_8
+      name: BackLeg
       rect:
         serializedVersion: 2
         x: 1165
@@ -320,7 +320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_9
+      name: RearMandible
       rect:
         serializedVersion: 2
         x: 28
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_10
+      name: LowerMandible
       rect:
         serializedVersion: 2
         x: 303
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tick-SpriteSheet_11
+      name: UpperMandible
       rect:
         serializedVersion: 2
         x: 541
@@ -498,18 +498,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Tick-SpriteSheet_0: -589983143
-      Tick-SpriteSheet_9: -1010795844
-      Tick-SpriteSheet_5: 336846505
-      Tick-SpriteSheet_7: -398560451
-      Tick-SpriteSheet_4: 1446763960
-      Tick-SpriteSheet_2: 1577472667
-      Tick-SpriteSheet_1: -1709204802
-      Tick-SpriteSheet_8: 1591853237
-      Tick-SpriteSheet_11: -930705152
-      Tick-SpriteSheet_6: 273362005
-      Tick-SpriteSheet_10: -724736437
-      Tick-SpriteSheet_3: 107664481
+      FrontLeg: 273362005
+      UpperMandible: -930705152
+      BackLeg: 1591853237
+      Head: 336846505
+      MidLeg: -398560451
+      Back-Armed: 1577472667
+      UpperBody: -589983143
+      RearMandible: -1010795844
+      Eyes: 1446763960
+      Back: -1709204802
+      Belly: 107664481
+      LowerMandible: -724736437
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
