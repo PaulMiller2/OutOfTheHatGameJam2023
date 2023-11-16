@@ -113,7 +113,7 @@ TextureImporter:
         width: 485
         height: 162
       alignment: 9
-      pivot: {x: 0.48311177, y: 0.29214045}
+      pivot: {x: 0.5018765, y: 0.3483188}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 242.5, y: -5}
@@ -264,8 +264,8 @@ TextureImporter:
         y: 22
         width: 49
         height: 159
-      alignment: 9
-      pivot: {x: 0.42570525, y: 0.90639144}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -285,8 +285,8 @@ TextureImporter:
         y: 42
         width: 84
         height: 196
-      alignment: 9
-      pivot: {x: 0.4891648, y: 0.93182737}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -306,8 +306,8 @@ TextureImporter:
         y: 47
         width: 68
         height: 196
-      alignment: 9
-      pivot: {x: 0.3527778, y: 0.94111407}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,7 +323,7 @@ TextureImporter:
       name: RearMandible
       rect:
         serializedVersion: 2
-        x: 28
+        x: 24
         y: 1
         width: 172
         height: 44
